@@ -1,0 +1,623 @@
+2015-06-08 11:46:07 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-08 12:08:35 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-08 12:43:58 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-08 12:43:58 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart-2.0.3.1/upload/admin/index.php:80) in /var/www/html/opencart-2.0.3.1/upload/system/library/response.php on line 12
+2015-06-08 13:16:25 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-08 13:26:11 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-08 13:38:30 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-08 14:01:17 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-08 14:01:54 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-08 14:03:46 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-09 5:14:04 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-09 6:24:10 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-09 6:49:00 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-09 6:49:00 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart-2.0.3.1/upload/admin/index.php:80) in /var/www/html/opencart-2.0.3.1/upload/system/library/response.php on line 12
+2015-06-09 6:57:25 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-09 7:17:17 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-09 7:17:17 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart-2.0.3.1/upload/admin/index.php:80) in /var/www/html/opencart-2.0.3.1/upload/system/library/response.php on line 12
+2015-06-09 7:54:11 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-09 8:00:56 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-09 8:00:56 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart-2.0.3.1/upload/admin/index.php:80) in /var/www/html/opencart-2.0.3.1/upload/system/library/response.php on line 12
+2015-06-09 8:50:24 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-09 8:57:11 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-09 9:03:20 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-09 9:05:56 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-09 9:10:31 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-09 10:27:47 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-09 11:13:34 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-09 12:03:04 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-09 12:09:21 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-09 12:55:16 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-10 7:27:32 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-10 9:26:59 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-10 10:49:16 - PHP Notice:  Undefined variable: thumb in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 153
+2015-06-10 10:49:16 - PHP Notice:  Undefined variable: images in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 153
+2015-06-10 11:45:35 - PHP Notice:  Undefined variable: thumb in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 153
+2015-06-10 11:45:35 - PHP Notice:  Undefined variable: images in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 157
+2015-06-10 13:14:35 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-11 6:55:59 - PHP Notice:  Undefined variable: help_usere in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/payment/pp_payflow.tpl on line 38
+2015-06-11 7:03:59 - PHP Notice:  Undefined variable: help_usere in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/payment/pp_payflow.tpl on line 38
+2015-06-11 7:04:05 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-11 7:04:12 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-11 7:19:47 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-11 9:10:02 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-11 9:10:07 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-11 9:14:34 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-11 10:17:27 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-11 13:11:34 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-11 13:37:06 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-11 13:38:18 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-15 5:40:12 - PHP Warning:  move_uploaded_file(../upload/SKL Canada INC. fr print.pdf): failed to open stream: Permission denied in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 118
+2015-06-15 5:40:12 - PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php5mEOli' to '../upload/SKL Canada INC. fr print.pdf' in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 118
+2015-06-15 5:40:12 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart-2.0.3.1/upload/admin/index.php:80) in /var/www/html/opencart-2.0.3.1/upload/system/library/response.php on line 12
+2015-06-15 5:44:27 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-15 6:18:46 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-15 6:45:45 - PHP Notice:  Undefined variable: token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 90
+2015-06-15 6:45:45 - PHP Notice:  Undefined variable: token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 90
+2015-06-15 6:45:45 - PHP Notice:  Undefined variable: token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 90
+2015-06-15 6:45:45 - PHP Notice:  Undefined variable: token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 90
+2015-06-15 6:46:41 - PHP Notice:  Undefined variable: token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 85
+2015-06-15 6:47:15 - PHP Notice:  Use of undefined constant token - assumed 'token' in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 85
+2015-06-15 6:47:15 - PHP Notice:  Undefined index: token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 85
+2015-06-15 6:48:04 - PHP Notice:  Undefined variable: token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 85
+2015-06-15 6:48:39 - PHP Notice:  Undefined variable: token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 84
+2015-06-15 6:48:39 - PHP Notice:  Undefined variable: token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:48:39 - PHP Notice:  Undefined variable: token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:48:39 - PHP Notice:  Undefined variable: token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:48:39 - PHP Notice:  Undefined variable: token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:49:34 - PHP Notice:  Undefined variable: token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:49:34 - PHP Notice:  Undefined variable: token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:49:34 - PHP Notice:  Undefined variable: token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:49:34 - PHP Notice:  Undefined variable: token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:52:24 - PHP Notice:  Undefined variable: session_token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:52:24 - PHP Notice:  Undefined variable: session_token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:52:24 - PHP Notice:  Undefined variable: session_token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:52:24 - PHP Notice:  Undefined variable: session_token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:53:03 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-15 6:53:03 - PHP Notice:  Undefined variable: session_token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:53:03 - PHP Notice:  Undefined variable: session_token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:53:03 - PHP Notice:  Undefined variable: session_token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:53:03 - PHP Notice:  Undefined variable: session_token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:56:30 - PHP Notice:  Undefined variable: base in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:56:30 - PHP Notice:  Undefined variable: session_token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:56:30 - PHP Notice:  Undefined variable: base in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:56:30 - PHP Notice:  Undefined variable: session_token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:56:30 - PHP Notice:  Undefined variable: base in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:56:30 - PHP Notice:  Undefined variable: session_token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:56:30 - PHP Notice:  Undefined variable: base in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 6:56:30 - PHP Notice:  Undefined variable: session_token in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 92
+2015-06-15 7:13:54 - PHP Notice:  Undefined variable: text_edit in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 28
+2015-06-15 7:14:03 - PHP Notice:  Undefined variable: text_edit in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog.tpl on line 28
+2015-06-15 7:17:49 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 7:17:49 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 7:17:58 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 7:17:58 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 7:20:34 - PHP Notice:  Array to string conversion in /var/www/html/opencart-2.0.3.1/upload/admin/model/module/pdfcatalog.php on line 47
+2015-06-15 7:21:35 - PHP Notice:  Array to string conversion in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 143
+2015-06-15 7:21:35 - PHP Notice:  Use of undefined constant xit - assumed 'xit' in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 143
+2015-06-15 7:21:35 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 7:21:35 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 7:21:35 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 7:22:37 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 7:22:37 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 7:22:37 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 7:26:57 - PHP Notice:  Undefined index: id in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 143
+2015-06-15 7:28:58 - PHP Warning:  urldecode() expects parameter 1 to be string, array given in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 143
+2015-06-15 7:30:00 - PHP Warning:  urldecode() expects parameter 1 to be string, array given in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 143
+2015-06-15 7:30:02 - PHP Warning:  urldecode() expects parameter 1 to be string, array given in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 143
+2015-06-15 7:35:10 - PHP Notice:  Array to string conversion in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 143
+2015-06-15 7:51:33 - PHP Notice:  Undefined index: offer_file in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 226
+2015-06-15 7:51:33 - PHP Notice:  Undefined index: status in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 236
+2015-06-15 7:51:33 - PHP Notice:  Undefined index: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 237
+2015-06-15 7:51:41 - PHP Notice:  Undefined index: offer_file in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 226
+2015-06-15 7:51:41 - PHP Notice:  Undefined index: status in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 236
+2015-06-15 7:51:41 - PHP Notice:  Undefined index: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 237
+2015-06-15 8:00:41 - PHP Notice:  Undefined index: catalog_id in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 143
+2015-06-15 8:00:59 - PHP Notice:  Undefined index: id in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 143
+2015-06-15 8:01:00 - PHP Notice:  Undefined index: id in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 143
+2015-06-15 8:04:44 - PHP Notice:  Undefined index: id in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 143
+2015-06-15 8:14:41 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:14:41 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:14:41 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:21:19 - PHP Notice:  Undefined index: file_name in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 228
+2015-06-15 8:21:19 - PHP Notice:  Undefined index: offer_file in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 230
+2015-06-15 8:21:19 - PHP Notice:  Undefined index: file_name in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 238
+2015-06-15 8:21:19 - PHP Notice:  Undefined index: status in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 240
+2015-06-15 8:21:19 - PHP Notice:  Undefined index: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 241
+2015-06-15 8:21:28 - PHP Notice:  Undefined index: file_name in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 228
+2015-06-15 8:21:28 - PHP Notice:  Undefined index: offer_file in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 230
+2015-06-15 8:21:28 - PHP Notice:  Undefined index: file_name in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 238
+2015-06-15 8:21:28 - PHP Notice:  Undefined index: status in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 240
+2015-06-15 8:21:28 - PHP Notice:  Undefined index: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 241
+2015-06-15 8:22:24 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:22:24 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:22:24 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:25:38 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:25:38 - PHP Notice:  Undefined index: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 38
+2015-06-15 8:25:38 - PHP Notice:  Undefined index: status in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 53
+2015-06-15 8:25:38 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:25:38 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:26:39 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:26:39 - PHP Notice:  Undefined index: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 38
+2015-06-15 8:26:39 - PHP Notice:  Undefined index: status in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 53
+2015-06-15 8:26:39 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:26:39 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:27:58 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:27:58 - PHP Notice:  Undefined index: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 38
+2015-06-15 8:27:58 - PHP Notice:  Undefined index: status in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 53
+2015-06-15 8:27:58 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:27:58 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:29:38 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:29:38 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:29:38 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:29:59 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:29:59 - PHP Notice:  Undefined variable: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 38
+2015-06-15 8:29:59 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:29:59 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:31:26 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:31:26 - PHP Notice:  Undefined index: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 38
+2015-06-15 8:31:26 - PHP Notice:  Undefined variable: status in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 53
+2015-06-15 8:31:26 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:31:26 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:32:51 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:33:56 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:34:45 - PHP Notice:  Undefined index: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 32
+2015-06-15 8:35:37 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:35:37 - PHP Notice:  Undefined index:  in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 38
+2015-06-15 8:35:37 - PHP Notice:  Undefined variable: status in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 53
+2015-06-15 8:35:37 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:35:37 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:36:22 - PHP Notice:  Undefined index:  in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 32
+2015-06-15 8:37:17 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:37:17 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:37:17 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:37:24 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:37:24 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:37:24 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:37:59 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:37:59 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:37:59 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:38:02 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-15 8:38:02 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:38:02 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:38:02 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:38:38 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:38:38 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:38:38 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:39:37 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:39:37 - PHP Notice:  Undefined index: offer_file in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 45
+2015-06-15 8:39:37 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:39:37 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:40:33 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:40:33 - PHP Notice:  Undefined index: offer_file in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 45
+2015-06-15 8:40:33 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:40:33 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:42:31 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:42:31 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:42:31 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 85
+2015-06-15 8:42:50 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:42:50 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 8:42:50 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 8:43:19 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:43:19 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 8:43:19 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 8:43:59 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:43:59 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 8:43:59 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 8:44:17 - PHP Notice:  Undefined variable: form_url in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 33
+2015-06-15 8:44:17 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 8:44:17 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:21:30 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:21:30 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:21:34 - PHP Notice:  Undefined index: $id in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 143
+2015-06-15 9:22:04 - PHP Notice:  Undefined index: id in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 143
+2015-06-15 9:23:07 - PHP Notice:  Undefined index: catalog_id in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 143
+2015-06-15 9:25:19 - PHP Notice:  Undefined index: catalog_id in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 143
+2015-06-15 9:25:19 - PHP Notice:  Undefined index: offer_file in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 146
+2015-06-15 9:25:19 - PHP Notice:  Undefined index: status in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 156
+2015-06-15 9:25:19 - PHP Notice:  Undefined index: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 157
+2015-06-15 9:25:19 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart-2.0.3.1/upload/admin/index.php:80) in /var/www/html/opencart-2.0.3.1/upload/system/library/response.php on line 12
+2015-06-15 9:31:18 - PHP Notice:  Undefined index: catalog_id in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 143
+2015-06-15 9:32:54 - PHP Notice:  Undefined index: offer_file in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 146
+2015-06-15 9:32:54 - PHP Notice:  Undefined index: status in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 156
+2015-06-15 9:32:54 - PHP Notice:  Undefined index: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 157
+2015-06-15 9:35:18 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:35:18 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:35:29 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:35:29 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:37:08 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:37:08 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:37:11 - PHP Notice:  Undefined index: file_name in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 154
+2015-06-15 9:37:45 - PHP Notice:  Undefined index: offer_file in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 146
+2015-06-15 9:37:45 - PHP Notice:  Undefined index: offer_file in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 154
+2015-06-15 9:37:45 - PHP Notice:  Undefined index: status in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 156
+2015-06-15 9:37:45 - PHP Notice:  Undefined index: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 157
+2015-06-15 9:37:51 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:37:51 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:37:54 - PHP Notice:  Undefined index: offer_file in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 154
+2015-06-15 9:39:24 - PHP Notice:  Undefined index: offer_file in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 146
+2015-06-15 9:39:24 - PHP Notice:  Undefined index: offer_filename in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 154
+2015-06-15 9:39:24 - PHP Notice:  Undefined index: status in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 156
+2015-06-15 9:39:24 - PHP Notice:  Undefined index: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 157
+2015-06-15 9:39:26 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:39:26 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:42:31 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:42:31 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:43:01 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:43:01 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:43:43 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:43:43 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:44:00 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:44:00 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:46:03 - PHP Notice:  Undefined index: offer_file in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 146
+2015-06-15 9:46:03 - PHP Notice:  Undefined index: offer_filename in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 154
+2015-06-15 9:46:03 - PHP Notice:  Undefined index: status in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 156
+2015-06-15 9:46:03 - PHP Notice:  Undefined index: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 157
+2015-06-15 9:46:03 - PHP Notice:  Undefined index: catalog_id in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 158
+2015-06-15 9:46:59 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:46:59 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:47:22 - PHP Notice:  Undefined index: offer_file in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 146
+2015-06-15 9:47:22 - PHP Notice:  Undefined index: offer_filename in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 154
+2015-06-15 9:47:22 - PHP Notice:  Undefined index: status in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 156
+2015-06-15 9:47:22 - PHP Notice:  Undefined index: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 157
+2015-06-15 9:47:22 - PHP Notice:  Undefined index: catalog_id in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 158
+2015-06-15 9:47:22 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart-2.0.3.1/upload/admin/index.php:80) in /var/www/html/opencart-2.0.3.1/upload/system/library/response.php on line 12
+2015-06-15 9:47:23 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:47:23 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:47:37 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:47:37 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:47:47 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:47:47 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:47:55 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 9:47:55 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 10:22:03 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 10:22:03 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 10:22:15 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 10:22:15 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:39:42 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:39:42 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:39:52 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:39:52 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:43:56 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:43:56 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:44:22 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:44:22 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:44:27 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:44:27 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:44:29 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:44:29 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:44:53 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:44:53 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:53:18 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-15 11:56:53 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* from `oc_offer_pdf_catalog` where id='6'' at line 1<br />Error No: 1064<br />delete * from `oc_offer_pdf_catalog` where id='6' in /var/www/html/opencart-2.0.3.1/upload/system/library/db/mysqli.php on line 41
+2015-06-15 11:56:53 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart-2.0.3.1/upload/admin/index.php:80) in /var/www/html/opencart-2.0.3.1/upload/system/library/response.php on line 12
+2015-06-15 11:59:12 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:59:12 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:59:54 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 11:59:54 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:22:00 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:22:00 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:22:39 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:22:39 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:22:55 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:22:55 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:23:11 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:23:11 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:23:17 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:23:17 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:23:32 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:23:32 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:27:59 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:27:59 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:30:40 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:30:40 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:37:32 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:37:32 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:37:40 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:37:40 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:42:27 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:42:27 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:52:00 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:52:00 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:52:59 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:52:59 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:56:14 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:56:14 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:56:27 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:56:27 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:57:55 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:57:55 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:59:00 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 12:59:00 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:00:25 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-15 13:00:33 - PHP Notice:  Undefined index: offer_file in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 122
+2015-06-15 13:00:33 - PHP Notice:  Undefined index: status in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 132
+2015-06-15 13:00:33 - PHP Notice:  Undefined index: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 133
+2015-06-15 13:00:59 - PHP Notice:  Undefined index: offer_file in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 122
+2015-06-15 13:00:59 - PHP Notice:  Undefined index: status in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 132
+2015-06-15 13:00:59 - PHP Notice:  Undefined index: offer_title in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 133
+2015-06-15 13:00:59 - PHP Notice:  Undefined variable: sql1 in /var/www/html/opencart-2.0.3.1/upload/admin/model/module/pdfcatalog.php on line 37
+2015-06-15 13:00:59 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart-2.0.3.1/upload/admin/index.php:80) in /var/www/html/opencart-2.0.3.1/upload/system/library/response.php on line 12
+2015-06-15 13:04:20 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:04:20 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:04:27 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:04:27 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:04:34 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:04:34 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:10:58 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:10:58 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:12:33 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:12:33 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:12:45 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:12:45 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:15:58 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:15:58 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:16:09 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:16:09 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:16:21 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:16:21 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:16:32 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:16:32 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:16:46 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:16:46 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:17:34 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:17:34 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:17:41 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:17:41 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:17:48 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:17:48 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:19:12 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:19:12 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:22:22 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-15 13:22:22 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-16 5:51:06 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-16 5:51:06 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart-2.0.3.1/upload/index.php:98) in /var/www/html/opencart-2.0.3.1/upload/index.php on line 170
+2015-06-16 5:51:06 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart-2.0.3.1/upload/index.php:98) in /var/www/html/opencart-2.0.3.1/upload/system/library/currency.php on line 45
+2015-06-16 6:32:50 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-16 9:28:25 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-16 9:30:03 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-17 6:34:36 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-17 6:54:03 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-17 7:14:35 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-18 7:08:08 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-18 7:08:16 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:08:16 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:09:04 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:09:04 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:09:37 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-18 7:09:37 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart-2.0.3.1/upload/admin/index.php:80) in /var/www/html/opencart-2.0.3.1/upload/system/library/response.php on line 12
+2015-06-18 7:10:47 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-18 7:11:19 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:11:19 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:14:25 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:14:25 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:16:44 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:16:44 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:19:59 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:19:59 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:20:21 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:20:21 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:22:38 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:22:38 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:22:57 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:22:57 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:23:11 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:23:11 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:24:30 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:24:30 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:24:58 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:24:58 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:32:04 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:32:04 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:33:21 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 7:33:21 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:01:00 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:01:00 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:03:04 - PHP Warning:  is_uploaded_file() expects exactly 1 parameter, 0 given in /var/www/html/opencart-2.0.3.1/upload/admin/controller/module/pdfcatalog.php on line 129
+2015-06-18 8:07:06 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:07:06 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:07:58 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:07:58 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:08:03 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:08:03 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:11:05 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-18 8:11:05 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:11:05 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:13:02 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:13:02 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:13:57 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:13:57 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:14:49 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:14:49 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:15:18 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:15:18 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:22:28 - PHP Notice:  Undefined variable: offer_datas in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:22:29 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/opencart-2.0.3.1/upload/admin/view/template/module/pdfcatalog_edit.tpl on line 86
+2015-06-18 8:35:54 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 8:44:04 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 8:45:13 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 8:47:06 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 8:50:21 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 8:50:38 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 8:51:03 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 8:54:59 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 8:55:38 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 8:56:09 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 8:59:37 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 9:19:54 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 9:33:37 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 9:34:21 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 11:24:17 - PHP Warning:  unlink(/var/www/html/opencart-2.0.3.1/upload/system/cache/cache.country.1434622725): No such file or directory in /var/www/html/opencart-2.0.3.1/upload/system/library/cache/file.php on line 17
+2015-06-18 11:24:19 - PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /var/www/html/opencart-2.0.3.1/upload/index.php:98) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-18 11:24:26 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 11:35:10 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 11:38:32 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 11:51:26 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 13:48:00 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 13:49:05 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 13:53:41 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 13:53:55 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 13:54:56 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 13:55:37 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 13:57:58 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 13:59:56 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 14:02:56 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 14:03:29 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 14:06:56 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 14:08:21 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 14:11:55 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 14:25:00 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 14:25:54 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 14:26:06 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 14:27:37 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 14:28:18 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 14:28:21 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-18 14:41:29 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-19 9:33:46 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-19 10:16:01 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-19 10:16:15 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-19 10:19:04 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-19 10:20:54 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-19 10:21:33 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-19 10:22:05 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-19 10:22:09 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-19 10:22:11 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-25 10:39:43 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-25 10:56:22 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-25 11:12:03 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:24:07 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:37:49 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:37:55 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:37:56 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:38:02 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:38:02 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:38:05 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:38:06 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:38:15 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:38:16 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:39:46 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:39:46 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:39:51 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:39:53 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:42:25 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:42:25 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:42:26 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:42:29 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:42:30 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:42:34 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:42:35 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:42:38 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:42:50 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:42:50 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:42:51 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:44:48 - PHP Notice:  Error: EHLO not accepted from server! in /var/www/html/opencart-2.0.3.1/upload/system/library/mail.php on line 199
+2015-06-27 11:44:48 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:44:49 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:52:33 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:52:34 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:52:38 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:52:39 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:52:44 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:52:45 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:53:03 - PHP Notice:  Error: EHLO not accepted from server! in /var/www/html/opencart-2.0.3.1/upload/system/library/mail.php on line 199
+2015-06-27 11:53:03 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-27 11:53:03 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:53:05 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:58:55 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 11:58:57 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:00:40 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:00:42 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:02:09 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:02:10 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:02:24 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:02:25 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:02:43 - PHP Notice:  Error: EHLO not accepted from server! in /var/www/html/opencart-2.0.3.1/upload/system/library/mail.php on line 199
+2015-06-27 12:02:43 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:02:45 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:03:14 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:03:15 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:05:29 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:05:30 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:05:33 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:05:33 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:05:34 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:05:43 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:05:44 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:05:44 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-27 12:05:57 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-27 12:05:57 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:05:58 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:07:25 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-27 12:07:26 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 5:18:04 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 6:54:57 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 6:58:23 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 7:24:42 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 7:39:11 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 7:43:23 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 7:43:59 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 7:43:59 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 7:44:00 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 7:44:00 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 7:46:46 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 7:51:30 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 8:00:33 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 10:13:44 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 10:21:35 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 10:22:22 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 11:42:53 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-29 11:42:58 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 4:11:32 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 4:12:51 - PHP Warning:  move_uploaded_file(/var/www/html/opencart-2.0.3.1/upload/image/catalog/demo/images/philips.jpg): failed to open stream: Permission denied in /var/www/html/opencart-2.0.3.1/upload/admin/controller/common/filemanager.php on line 275
+2015-06-30 4:12:51 - PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBOgRTU' to '/var/www/html/opencart-2.0.3.1/upload/image/catalog/demo/images/philips.jpg' in /var/www/html/opencart-2.0.3.1/upload/admin/controller/common/filemanager.php on line 275
+2015-06-30 4:13:36 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-30 4:13:47 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:01:52 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:04:42 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:04:52 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:05:12 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /var/www/html/opencart-2.0.3.1/upload/system/library/session.php on line 12
+2015-06-30 5:05:13 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart-2.0.3.1/upload/admin/index.php:80) in /var/www/html/opencart-2.0.3.1/upload/system/library/response.php on line 12
+2015-06-30 5:05:26 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:05:28 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:05:58 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:06:00 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:10:31 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:10:31 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:10:41 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:10:41 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:10:42 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:10:54 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:10:54 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:10:55 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:11:02 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:11:02 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:14:13 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-06-30 5:14:14 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-07-03 12:25:58 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-07-03 13:24:08 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-07-03 14:08:58 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-07-03 14:09:08 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-07-03 14:09:09 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-07-03 14:09:11 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-07-03 14:09:12 - PHP Notice:  Undefined variable: offer_data in /var/www/html/opencart-2.0.3.1/upload/catalog/view/theme/OPC070174-1/template/common/header.tpl on line 161
+2015-07-03 14:21:40 - PHP Warning:  unlink(/var/www/html/opencart-2.0.3.1/upload/system/modification/system/library/response.php): Permission denied in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 387
+2015-07-03 14:21:40 - PHP Warning:  rmdir(/var/www/html/opencart-2.0.3.1/upload/system/modification/system/library): Permission denied in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 391
+2015-07-03 14:21:40 - PHP Warning:  rmdir(/var/www/html/opencart-2.0.3.1/upload/system/modification/system): Directory not empty in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 391
+2015-07-03 14:21:41 - PHP Warning:  mkdir(): Permission denied in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 705
+2015-07-03 14:21:41 - PHP Warning:  fopen(/var/www/html/opencart-2.0.3.1/upload/system/modification/system/engine/action.php): failed to open stream: No such file or directory in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 709
+2015-07-03 14:21:41 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 711
+2015-07-03 14:21:41 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 713
+2015-07-03 14:21:41 - PHP Warning:  mkdir(): Permission denied in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 705
+2015-07-03 14:21:41 - PHP Warning:  fopen(/var/www/html/opencart-2.0.3.1/upload/system/modification/system/engine/loader.php): failed to open stream: No such file or directory in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 709
+2015-07-03 14:21:41 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 711
+2015-07-03 14:21:41 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 713
+2015-07-03 14:21:41 - PHP Warning:  fopen(/var/www/html/opencart-2.0.3.1/upload/system/modification/system/library/config.php): failed to open stream: Permission denied in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 709
+2015-07-03 14:21:41 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 711
+2015-07-03 14:21:41 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 713
+2015-07-03 14:21:41 - PHP Warning:  fopen(/var/www/html/opencart-2.0.3.1/upload/system/modification/system/library/language.php): failed to open stream: Permission denied in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 709
+2015-07-03 14:21:41 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 711
+2015-07-03 14:21:41 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 713
+2015-07-03 14:21:41 - PHP Warning:  fopen(/var/www/html/opencart-2.0.3.1/upload/system/modification/system/startup.php): failed to open stream: Permission denied in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 709
+2015-07-03 14:21:41 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 711
+2015-07-03 14:21:41 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php on line 713
+2015-07-03 14:21:41 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart-2.0.3.1/upload/admin/index.php:84) in /var/www/html/opencart-2.0.3.1/upload/system/modification/system/library/response.php on line 12

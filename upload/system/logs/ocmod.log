@@ -1,0 +1,534 @@
+2015-07-03 14:21:41 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 21
+LINE: 27
+----------------------------------------------------------------
+Modification::refresh - Processing 'VQMOD CORE FOR OPENCART - DO NOT REMOVE'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/action.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/controller.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/controller.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/event.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/event.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/front.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/front.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/loader.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/model.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/model.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/registry.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/registry.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/affiliate.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/affiliate.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/amazon.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/amazon.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/amazonus.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/amazonus.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/cache.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/cache.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/cart.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/cart.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/cba.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/cba.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/config.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/currency.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/currency.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/customer.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/customer.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/db.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/db.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/document.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/document.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/ebay.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/ebay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/encryption.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/encryption.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/etsy.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/etsy.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/image.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/image.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/language.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/length.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/length.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/log.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/log.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/mail.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/mail.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/openbay.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/openbay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/pagination.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/pagination.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/request.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/request.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/response.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/response.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/session.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/session.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/tax.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/tax.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/url.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/url.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/user.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/user.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/weight.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/weight.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/feed.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/feed.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/fraud.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/fraud.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/installer.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/module.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/module.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/openbay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/payment.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/payment.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/shipping.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/shipping.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/total.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/total.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - Done 'VQMOD CORE FOR OPENCART - DO NOT REMOVE'
+----------------------------------------------------------------
+2015-07-03 14:22:16 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 58
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 37
+LINE: 54
+LINE: 65
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 21
+LINE: 27
+----------------------------------------------------------------
+Modification::refresh - Processing 'VQMOD CORE FOR OPENCART - DO NOT REMOVE'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/action.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/controller.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/controller.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/event.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/event.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/front.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/front.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/loader.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/model.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/model.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/registry.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/engine/registry.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/affiliate.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/affiliate.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/amazon.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/amazon.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/amazonus.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/amazonus.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/cache.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/cache.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/cart.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/cart.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/cba.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/cba.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/config.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/currency.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/currency.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/customer.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/customer.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/db.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/db.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/document.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/document.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/ebay.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/ebay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/encryption.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/encryption.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/etsy.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/etsy.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/image.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/image.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/language.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/length.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/length.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/log.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/log.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/mail.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/mail.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/openbay.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/openbay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/pagination.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/pagination.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/request.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/request.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/response.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/response.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/session.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/session.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/tax.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/tax.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/url.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/url.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/user.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/user.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/weight.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/system/library/weight.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/feed.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/feed.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/fraud.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/fraud.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/installer.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/modification.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/module.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/module.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/openbay.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/payment.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/payment.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/shipping.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/shipping.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/total.php'
+  search = '~(require|include)(_once)?\((?!modification\()([^)]+)~'
+Modification::refresh - SEARCH NOT FOUND (SKIPPED):
+  file name = '/var/www/html/opencart-2.0.3.1/upload/admin/controller/extension/total.php'
+  search = '~(require|include)(_once)?\(modification\(([^)]+)~'
+Modification::refresh - Done 'VQMOD CORE FOR OPENCART - DO NOT REMOVE'
+----------------------------------------------------------------
